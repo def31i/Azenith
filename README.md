@@ -1,2 +1,2 @@
 # Azenith
-mini 2d Game (in progress)
+mini 2d Render
